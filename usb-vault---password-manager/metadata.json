@@ -1,0 +1,5 @@
+{
+  "name": "USB Vault - Password Manager",
+  "description": "Secure password manager with physical dongle simulation, AES-256-GCM encryption, and Native Messaging integration.",
+  "requestFramePermissions": []
+}
